@@ -12,6 +12,8 @@ Passionate Python developer with a strong computer science background. Proficien
 
 ### Skills
 
+### Skills
+
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
@@ -71,6 +73,7 @@ Passionate Python developer with a strong computer science background. Proficien
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
   </a>
 </p>
+
 
 ### Socials
 
