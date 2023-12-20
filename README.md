@@ -20,7 +20,13 @@ Passionate Python developer with a strong computer science background. Proficien
 
 ### Socials
 
-<p align="left">
+<style>
+  .social-icons a {
+    margin-right: 10px; /* Adjust the value as needed for the desired spacing */
+  }
+</style>
+
+<p align="left" class="social-icons">
   <a href="https://www.linkedin.com/in/adhulnn" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
