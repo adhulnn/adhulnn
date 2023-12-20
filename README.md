@@ -22,7 +22,9 @@ Passionate Python developer with a strong computer science background. Proficien
 
 <style>
   .social-icons a {
-    margin-right: 10px; /* Adjust the value as needed for the desired spacing */
+     margin-right: 10px; /* Adjust the value as needed for the desired spacing */
+    text-decoration: none; /* Remove underlines */
+    color: inherit;
   }
 </style>
 
