@@ -23,7 +23,7 @@ Passionate Python developer with a strong computer science background. Proficien
 <p align="left">
   <a href="https://discord.com/users/adhulnn" target="_blank" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+      <source media="(prefers-color-scheme: dark)" srcset="[undefined](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg)" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
     </picture>
